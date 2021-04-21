@@ -1,5 +1,5 @@
 body {
-  background-color: #ff7f50;
+  background-color: #2F3035;
 }
 
 .container {
@@ -9,8 +9,8 @@ body {
 }
 
 header {
-  background-color: blue;
   height: 118px;
+  text-align: center;
 }
 
 nav {
@@ -19,8 +19,11 @@ nav {
 }
 
 main {
-  background-color: orange;
   height: 400px;
+  text-align: center;
+  padding-top: 80px;
+  padding-left: 240px;
+  padding-right: 240px;
 }
 
 footer {
@@ -28,3 +31,14 @@ footer {
   height: 100px;
 }
 
+h1 {
+  font-size: 84px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  font-size: 18px;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+}
